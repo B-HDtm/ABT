@@ -52,10 +52,10 @@ git push
 
 **OR**
 
-Just copy file (ABT.yml)
-Create in Desktop .github/workflows folder
-Added ABT.yml to .github/workflows
-Upload the .github/workflows/ABT.yml for you repository
+- Just copy file (ABT.yml)
+- Create in Desktop .github/workflows folder
+- Added ABT.yml to .github/workflows
+- Upload the .github/workflows/ABT.yml for you repository
 
 
 From now on, every push or PR triggers syntax checks automatically.
