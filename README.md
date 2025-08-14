@@ -36,6 +36,17 @@ A whopping **100+ languages** including but not limited to:
 
 ---
 
+## Information & Wiki
+
+Want more information? Wiki? Is it a pain to search somewhere for official information? **Look here:**
+
+- **Wiki:** [Wiki](https://github.com/B-HDtm/ABT/wiki)
+If you **didn't find anything useful there**, then definitely **go here**:
+- **Community:** [B-HD™ Public Chat](https://github.com/orgs/B-HDtm/discussions/2)
+- **Email:** markd.voznyuk@gmail.com
+
+---
+
 ## Usage
 
 Add `ABT.yml` to your `.github/workflows` folder in your repo:
