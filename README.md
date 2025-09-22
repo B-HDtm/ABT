@@ -63,11 +63,14 @@ git push
 
 **OR**
 
-- Just copy file (ABT.yml)
-- Create in Desktop .github/workflows folder
-- Added ABT.yml to .github/workflows
-- Upload the .github/workflows/ABT.yml for you repository
+- Just (copy; ctrl+a, ctrl+c) code in file (ABT.yml)
+- Go to Action in your repo and select "create your own" and change the file name from main.yml to abt.yml and paste the save code into the code window (ctrl+v)
+- Click save and enjoy)
 
+**Update**
+
+- To update, simply copy the code in the file (abt.yml in this repository) and replace the existing code in the abt.yml file in your repository with the copied code and you're done)
+- If you still don't have an abt.yml file or even a .github folder, see above for instructions on how to install it, either via the Linux terminal or via the Github method (Download section: OR)
 
 From now on, every push or PR triggers syntax checks automatically.
 
